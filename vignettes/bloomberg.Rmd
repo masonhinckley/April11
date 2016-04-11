@@ -1,5 +1,5 @@
 ---
-title: "Exploring Bloomberg Index Data"
+title: "Exploring Bloomberg Index Data 2"
 output: html_document
 ---
 
